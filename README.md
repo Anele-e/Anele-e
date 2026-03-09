@@ -1,7 +1,6 @@
-## Hi there I'm Anele✨
+## Anele Dindili
 
-- 🌱 I’m currently upskilling on Umuzi.org
-- 👯 I’m looking to collaborate on building scalable web applications, integrating APIs, and working with databases
+- I’m looking to collaborate on building scalable web applications, integrating APIs, and working with databases
 
 
 ## 🌐 Socials:
